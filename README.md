@@ -20,6 +20,7 @@ $ pip install --upgrade pip
 $ git clone https://github.com/Tenking-XD/InstaV2
 $ ls ( L kecil )
 $ cd InstaV2
+$ mkdir Data
 $ python run.py
 ```
 ## Cara Update
