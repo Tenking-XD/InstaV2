@@ -25,7 +25,7 @@ $ python run.py
 ## Cara Update
 ```php
 $ cd
-$ cd cracking6
+$ cd InstaV2
 $ ls ( L kecil )
 $ git pull
 $ python run.py
